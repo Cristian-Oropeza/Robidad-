@@ -44,11 +44,11 @@ Thonny
 
 
 <h2>Código en MicroPython</h2>
-https://docs.google.com/document/d/1OxP-MOXMWR4KfX5O1ofXI3URHGsmuSp02K--FmzGAJE/edit?usp=sharing
+https://docs.google.com/document/d/171qvaNCpcp91uj7gH3GqkZ_8mdU0SDqI4svbITY6k5Q/edit?usp=sharing
 <h2>Flujo de Node-Red</h2>
 https://docs.google.com/document/d/1xtrVXRO6TF2eJqWh9Wd1wjGL2uVk3BRjFN8fAYZ3GCQ/edit?usp=sharing
 <h2>Link de video en TikTok</h2>
-
+https://vm.tiktok.com/ZMkd9FLJc/
 <h6>Coevaluacion a Cristian Efraín Oropeza Yepiz<h6>
 Durante la elabolación del proyecto...
 
