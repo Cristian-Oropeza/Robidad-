@@ -58,4 +58,4 @@ Durante la elabolación del proyecto...
 https://drive.google.com/drive/folders/1c-aTjysi9IpAL43_aaYaaeAEDD1HV67y?usp=sharing
 
 ## Lecciones de Netacad
-https://docs.google.com/document/d/1iA5H5-9AfXU4FTSluAcMSpTuZlo0nn3Yk9Pe255ScIM/edit?usp=sharing
+https://docs.google.com/document/d/1pwtjVEr3MzCDQiFWu2ojl87bLv0OTaGNh5d1GgQ57rA/edit?usp=sharing
